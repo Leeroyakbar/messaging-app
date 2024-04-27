@@ -1,4 +1,4 @@
-module github.com/leeroyakbar/messaging-app-db
+module github.com/leeroyakbar/messaging-app
 
 go 1.22
 

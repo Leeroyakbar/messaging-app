@@ -1,7 +1,7 @@
 package configs
 
 import (
-	"github.com/leeroyakbar/messaging-app-db/app/models"
+	"github.com/leeroyakbar/messaging-app/app/models"
 	"gorm.io/driver/postgres"
 	"gorm.io/gorm"
 )
